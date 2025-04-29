@@ -12,7 +12,7 @@ A simple note-taking app built with **React** that allows users to add and view 
 ## Project Setup
 
 1. Clone the repository  
-   `git clone https://github.com/your-username/custom-note-service.git`
+   `git clone https://github.com/Tanmoybhow/custome-note-service`
 
 2. Navigate to the project folder  
    `cd note-app`
