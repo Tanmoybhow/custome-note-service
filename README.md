@@ -4,8 +4,8 @@ A simple note-taking app built with **React** that allows users to add and view 
 
 ## Live Demo & Code
 
-- **Live Site**: [Your Vercel/Netlify link here]
-- **GitHub Repo**: [Your GitHub repo link here]
+- **Live Site**: https://mininote-app.netlify.app/
+- **GitHub Repo**: https://github.com/Tanmoybhow/custome-note-service
 
 ---
 
@@ -99,5 +99,5 @@ This app fulfills all requirements of the assignment:
 
 ---
 
-🧑‍💻 Built with ❤️ by [Tanmoy Bhowmik]
+🧑‍💻 Built with ❤️ by Tanmoy Bhowmik
 
